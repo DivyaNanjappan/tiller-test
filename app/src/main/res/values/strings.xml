@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tiller Test</string>
+
+    <string name="preference_password" translatable="false">tiller_test.preference</string>
+    <string name="preference_name" translatable="false">tiller_test.xml</string>
+
+    <string name="network_error">Please check your network connection</string>
+    <string name="error_server">Something went wrong. Please try again later</string>
+    <string name="retry">Retry</string>
+    <string name="country_name">Country Name</string>
+    <string name="search">Search</string>
+    <string name="iso_code">ISO Code</string>
+    <string name="title">Divya\'s Test</string>
+    <string name="empty">No Data Found</string>
+</resources>
